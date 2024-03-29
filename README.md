@@ -3,7 +3,7 @@
 ## Для запуска проекта
 
 ```
-cd item-expert
+git clone https://github.com/PauloChaser/item.git
 npm install
 npm run serve
 ```
